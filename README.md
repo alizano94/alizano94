@@ -6,18 +6,23 @@
 ---
 
 ## 📈 Executive Summary
-I am an advanced technologist with a Ph.D. in Chemical Engineering and a foundational background in Physics. My work specializes in translating complex mathematical frameworks and first-principles modeling into high-throughput, automated software solutions. Across my career, I have a proven track record of designing digital twins and building production-grade computer vision and machine learning pipelines that deliver verified financial and operational value to enterprise-scale industrial systems.
+I am an advanced technologist with a Ph.D. in Chemical Engineering and a foundational background in Physics, uniquely positioned to drive high-impact initiatives across both academic and industrial landscapes. My expertise lies at the intersection of artificial intelligence and first-principles physical laws. By embedding statistical mechanics, transport phenomena, and numerical optimization into modern machine learning architectures I deliver rare dual-spectrum value: pioneering scholarly contributions for academic institutions alongside production-grade, containerized MLOps pipelines that secure multi-million-dollar operational and economic returns for global enterprise organizations. 
+
+A critical pillar of my approach is the ability to seamlessly translate complex mathematical and physical concepts across organizational boundaries, communicating effectively with executive stakeholders, cross-functional business units, and deep academic research teams alike. Furthermore, I do not just design models in isolation; I possess a comprehensive, hands-on understanding of software architecture and full-lifecycle IT infrastructure. From automated CI/CD pipelines and container orchestration to cloud-native data environments, I build solutions engineered from the ground up for reliable, secure, and highly scalable production deployment.
 
 ---
 
 ## 🛠️ Technical Ecosystem
 
-| Domain | Technologies & Frameworks |
+| Domain | Technologies, Frameworks & Methodologies |
 | :--- | :--- |
-| **AI & Deep Learning** | PyTorch, TensorFlow, Computer Vision (YOLO, SAM, ClipSeg), Deep Reinforcement Learning |
-| **Math & Core Engineering** | Mathematical Optimization (MINLP), Statistical Mechanics, First-Principles Transport, Stochastic Systems |
-| **Infrastructure & MLOps** | Docker, Kubernetes, CI/CD Pipelines, Bash, Git, Cloud Migration (AWS, GCP) |
-| **Languages** | Python, C, MATLAB |
+| **Artificial Intelligence & Vision** | PyTorch, TensorFlow, Computer Vision (YOLO, SAM, ClipSeg), Deep Reinforcement Learning (DRL), Physics-Informed Neural Networks (PINNs) |
+| **Mathematical & Physical Modeling** | Mathematical Optimization (MINLP, Linear/Non-Linear Solvers), Statistical Mechanics, First-Principles Transport Phenomena, Stochastic Systems, Numerical Methods, COMSOL Multiphysics |
+| **Chemometrics & Advanced Analytics** | Multivariate Data Analysis (MVDA), Design of Experiments (DoE), SIMCA (Batch Modeling/PCA/PLS), JMP Statistical Software, Statistical Process Control (SPC) |
+| **Industrial MLOps & Architecture** | Production ML Systems, End-to-End Model Lifecycle Management (Governance, Monitoring), Automated Data & Training Pipelines, Digital Twins, POSIT Connect, POSIT Workbench |
+| **IT Infrastructure & DevOps** | Docker (Containerization), Kubernetes (Orchestration), CI/CD Pipelines, Databricks, Linux, Bash, Git/Version Control, Cloud-Native Environments (AWS, GCP, Azure), Azure DevOps, Power Automate |
+| **Programming Languages** | Python (Advanced Core & Type Hinting), C, C++, Fortran, MATLAB |
+| **Enterprise Leadership & Strategy** | Cross-Functional Technical Translation, Technology Roadmapping, Agile/Scrum Project Management, Executive Stakeholder Alignment |
 
 ---
 
@@ -29,6 +34,6 @@ I am an advanced technologist with a Ph.D. in Chemical Engineering and a foundat
 ---
 
 ## 📬 Connect With Me
-*   💼 **LinkedIn:** [Insert your LinkedIn Link]
-*   📧 **Email:** [Insert your Professional Email]
+*   💼 **LinkedIn:** [alizano94](www.linkedin.com/in/alizano94)
+*   📧 **Email:** (alizano@lizanosolutions.com)[mailto:alizano@lizanosolutions.com]
 *   🌍 **Location:** Houston, TX
