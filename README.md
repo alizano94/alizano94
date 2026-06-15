@@ -34,6 +34,7 @@ A critical pillar of my approach is the ability to seamlessly translate complex 
 ---
 
 ## 📬 Connect With Me
-*   💼 **LinkedIn:** [alizano94](www.linkedin.com/in/alizano94)
-*   📧 **Email:** (alizano@lizanosolutions.com)[mailto:alizano@lizanosolutions.com]
+*   💼 **LinkedIn:** www.linkedin.com/in/alizano94
+*   📧 **Email:** alizano@lizanosolutions.com
 *   🌍 **Location:** Houston, TX
+
